@@ -8,5 +8,7 @@ This presentation aims to guide the initial steps of a first time ML dev into se
 * Programming language
 * Dependencies management
 * Project structure
-* IDE
-* Tools/libs overview
+* IDE *
+* Tools/libs overview *
+
+\* TODO
